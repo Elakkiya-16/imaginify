@@ -1,6 +1,6 @@
 IMAGINIFY - AI Image Transformation
 
-Imaginify is an AI-powered image transformation platform that allows users to enhance and modify images effortlessly. Built with Next.js, TypeScript, MongoDB, and CSS, it leverages Cloudinary AI to provide cutting-edge image editing features.
+Imaginify is an AI-powered image transformation platform that allows users to enhance and modify images effortlessly. Built with Next.js, TypeScript and CSS,JavaScript , it leverages Cloudinary AI to provide cutting-edge image editing features.
 
 Features
 
@@ -12,11 +12,9 @@ Features
 
 Tech Stack
 
-Frontend: Next.js, TypeScript, CSS
+Frontend: JavaScript, TypeScript, CSS
 
-Backend: Node.js, Express.js
-
-Database: MongoDB
+Backend: Node.js
 
 AI Integration: Cloudinary AI
 
